@@ -7,6 +7,7 @@ Spring Boot Thymeleaf Demo
 * Spring Boot to render Thymeleaf templates
 * Tailwind CSS for styling
 * Node.js for building Tailwind CSS
+* Auto reload for development
 
 # Get Started
 
