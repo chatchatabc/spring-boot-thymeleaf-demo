@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class HomeController {
     @GetMapping
     public String index(Model model) {
+        model.addAttribute("user", "Admin");
         return "index";
     }
 }
