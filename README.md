@@ -1,6 +1,13 @@
 Spring Boot Thymeleaf Demo
 ==========================
 
+# Features
+
+* Thymeleaf as template engine
+* Spring Boot to render Thymeleaf templates
+* Tailwind CSS for styling
+* Node.js for building Tailwind CSS
+
 # Get Started
 
 * Start Spring Boot Server: `mvn spring-boot:run`
