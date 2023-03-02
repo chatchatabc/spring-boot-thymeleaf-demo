@@ -6,8 +6,7 @@
 <body>
 <div layout:fragment="content">
     <!-- Add content here -->
-    <div>Welcome to your Spring Boot with Thymeleaf project!</div>
-    <div>See <code>HELP.md</code> for instructions on how to get started.</div>
+    <div>Welcome <span th:text="${user}"></span>!</div>
     <div class="border-r-red-900 text-lg text-red-600">Good Morning</div>
 </div>
 </body>
