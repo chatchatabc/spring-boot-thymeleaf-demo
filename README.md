@@ -8,6 +8,8 @@ Spring Boot Thymeleaf Demo
 * Tailwind CSS for styling
 * Node.js for building Tailwind CSS
 * Auto reload for development
+* Thymeleaf ViewComponent
+* htmx-spring-boot-thymeleaf 
 
 # Get Started
 
@@ -21,4 +23,5 @@ Spring Boot Thymeleaf Demo
 * Taming Thymeleaf CLI: https://github.com/wimdeblauwe/ttcli
 * browser-sync: Time-saving synchronised browser testing https://browsersync.io/
 * thymeleaf-view-component: a Library to create Server Side Component with Thymeleaf - https://github.com/tschuehly/thymeleaf-view-component
+* htmx-spring-boot-thymeleaf: Spring Boot and Thymeleaf library for htmx - https://github.com/wimdeblauwe/htmx-spring-boot-thymeleaf
 * Thymeleaf ViewComponent - A new approach to building SSR web applications with Spring Boot: https://www.schuehly-it.de/posts/thymeleaf-view-component/
