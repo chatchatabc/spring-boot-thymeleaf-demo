@@ -8,6 +8,7 @@
     <!-- Add content here -->
     <div>Welcome <span th:text="${user}"></span>!</div>
     <div class="border-r-red-900 text-lg text-red-600">Good Morning</div>
+    <div th:utext="${{@helloComponent.render()}}"></div>
 </div>
 </body>
 </html>
