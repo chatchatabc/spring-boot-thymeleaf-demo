@@ -21,3 +21,4 @@ Spring Boot Thymeleaf Demo
 * Taming Thymeleaf CLI: https://github.com/wimdeblauwe/ttcli
 * browser-sync: Time-saving synchronised browser testing https://browsersync.io/
 * thymeleaf-view-component: a Library to create Server Side Component with Thymeleaf - https://github.com/tschuehly/thymeleaf-view-component
+* Thymeleaf ViewComponent - A new approach to building SSR web applications with Spring Boot: https://www.schuehly-it.de/posts/thymeleaf-view-component/
