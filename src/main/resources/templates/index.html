@@ -12,6 +12,7 @@
     <div>Welcome <span th:text="${user}"></span>!</div>
     <div class="border-r-red-900 text-lg text-red-600">Good Morning</div>
     <div th:utext="${{@helloComponent.render()}}"></div>
+    <div th:utext="${{@welcomeComponent.render()}}"></div>
     <br/>
     <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
             hx-get="/hello" hx-trigger="click" hx-target="#htmx-content">
