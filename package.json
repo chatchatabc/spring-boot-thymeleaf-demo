@@ -2,17 +2,17 @@
   "name": "spring-boot-thymeleaf-demo",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
-    "autoprefixer": "^10.4.13",
-    "browser-sync": "^2.28.3",
-    "cssnano": "^5.1.15",
-    "mkdirp": "^2.1.5",
+    "autoprefixer": "^10.4.14",
+    "browser-sync": "^2.29.1",
+    "cssnano": "^6.0.0",
+    "mkdirp": "^2.1.6",
     "npm-run-all": "^4.1.5",
     "onchange": "^7.1.0",
     "path-exists-cli": "^2.0.0",
     "postcss": "^8.4.21",
     "postcss-cli": "^10.1.0",
     "recursive-copy-cli": "^1.0.20",
-    "tailwindcss": "^3.2.7"
+    "tailwindcss": "^3.3.1"
   },
   "scripts": {
     "build": "npm-run-all --parallel build:*",
