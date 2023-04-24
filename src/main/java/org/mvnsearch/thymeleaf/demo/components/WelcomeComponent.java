@@ -1,8 +1,8 @@
 package org.mvnsearch.thymeleaf.demo.components;
 
-import de.tschuehly.thymeleafviewcomponent.ViewComponent;
-import de.tschuehly.thymeleafviewcomponent.ViewContext;
-import de.tschuehly.thymeleafviewcomponent.ViewProperty;
+import de.tschuehly.spring.viewcomponent.core.ViewComponent;
+import de.tschuehly.spring.viewcomponent.core.ViewContext;
+import de.tschuehly.spring.viewcomponent.core.ViewProperty;
 
 @ViewComponent
 public class WelcomeComponent {
